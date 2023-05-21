@@ -1,0 +1,5 @@
+[credential]
+	helper = store
+[user]
+	email = rick@neverslow.com
+	name = Rick VanNorman
