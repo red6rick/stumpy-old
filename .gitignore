@@ -13,3 +13,4 @@ moonraker/
 sonar/
 *.log*
 *backup*
+.git-credentials
