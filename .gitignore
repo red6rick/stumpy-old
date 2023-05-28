@@ -15,3 +15,5 @@ sonar/
 *backup*
 .git-credentials
 *.mdb
+*printer-20*
+CanBoot/
