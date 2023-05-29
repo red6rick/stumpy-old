@@ -17,3 +17,7 @@ sonar/
 *.mdb
 *printer-20*
 CanBoot/
+printer_data/gcodes/
+*~
+printer_data/database/
+
