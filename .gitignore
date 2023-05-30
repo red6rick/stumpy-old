@@ -23,4 +23,4 @@ printer_data/gcodes/
 *~
 printer_data/database/
 klipper_network_status/
-
+printer_data/config/.moonraker.conf.bkp
