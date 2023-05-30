@@ -1,3 +1,5 @@
+.lesshst
+.ssh/
 .bash_history
 .bash_logout
 .cache/
@@ -20,4 +22,5 @@ CanBoot/
 printer_data/gcodes/
 *~
 printer_data/database/
+klipper_network_status/
 
